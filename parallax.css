@@ -1,0 +1,176 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.8rem;
+    
+}
+
+#background-1 { 
+    background-image: url(./images/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 625px;
+    width:1349;
+    
+    
+} 
+ #head-1{
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color:white
+}
+#head__clarusway {
+     background-color: black;
+    padding: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    outline: 0.5rem inset purple;
+    outline-offset: 1rem;
+    line-height: 5rem;
+}
+       
+#first-content{
+    padding:48px 80px 48px 80px;
+    text-align: center;
+    color:#666;
+}
+#background-2{
+    background-image: url(./images/bg2.jpg);
+     background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80%;
+    height: 625px;
+    width:1349;
+    
+} 
+#head-2__logo{
+    width:30%;
+}
+#head-2{
+    font-size: 3rem;
+    text-align: center;
+}
+#second-content{
+    background-color: black;
+    color:#ddd;
+    text-align: center;
+    padding: 3rem 5rem;
+}    
+#background-3{
+    background-image: url(./images/bg3.jpg);
+     background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 625px;
+    width:1349;
+    
+}
+#head-3{
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color: white;
+}
+#head-3__way{
+    background-color: black;
+    padding: 0.7rem;
+    border-top-left-radius: 0.7rem;
+    border-bottom-right-radius: 0.7rem;
+    outline: 0.4rem inset purple;
+    outline-offset: 0.2rem;
+    text-transform: capitalize;
+    line-height: 5rem;
+}
+#third-content{
+    
+    padding:48px 80px 48px 80px;
+    text-align: center;
+    color:#666;
+}
+#background-4{
+    background-image: url(./images/bg4.jpg);
+     background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 625px;
+    width:1349;
+    
+}
+#head-4{
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color: white;
+}
+#head-4__clarusway{
+    background-color: black;
+    padding: 0.7rem;
+    border-top-left-radius: 0.7rem;
+    border-bottom-right-radius: 0.7rem;
+    outline: 0.4rem inset purple;
+    outline-offset: 0.2rem;
+    line-height: 5rem;
+}
+#fourth-content{
+    background-color: black;
+    padding:3rem 5rem;
+    text-align: center;
+    color:#666;
+}
+#last-background{
+    background-image: url(./images/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 625px;
+    width:1349;
+    
+}
+#head-5{
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color: white;
+}
+#head-5__choose{
+    background-color: black;
+    padding: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    outline: 0.5rem inset purple;
+    outline-offset: 1rem;
+    line-height: 5rem;
+}
