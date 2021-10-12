@@ -21,7 +21,7 @@ body {font-weight: 400;
     align-items: center;
     justify-content: center;
     height: 625px;
-    width:1349;
+    width:1349px;
     
     
 } 
@@ -46,6 +46,7 @@ body {font-weight: 400;
     text-align: center;
     color:#666;
 }
+
 #background-2{
     background-image: url(./images/bg2.jpg);
      background-position: center;
@@ -69,7 +70,7 @@ body {font-weight: 400;
     text-align: center;
 }
 #second-content{
-    background-color: black;
+    background-color: #282E34;
     color:#ddd;
     text-align: center;
     padding: 3rem 5rem;
@@ -131,7 +132,7 @@ body {font-weight: 400;
     color: white;
 }
 #head-4__clarusway{
-    background-color: black;
+    background-color:black;
     padding: 0.7rem;
     border-top-left-radius: 0.7rem;
     border-bottom-right-radius: 0.7rem;
@@ -140,7 +141,7 @@ body {font-weight: 400;
     line-height: 5rem;
 }
 #fourth-content{
-    background-color: black;
+    background-color:#282E34;
     padding:3rem 5rem;
     text-align: center;
     color:#666;
