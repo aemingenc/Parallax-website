@@ -20,8 +20,8 @@ body {font-weight: 400;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 625px;
-    width:1349px;
+    height:100vh;
+    width:100%;
     
     
 } 
@@ -58,8 +58,8 @@ body {font-weight: 400;
     align-items: center;
     justify-content: center;
     min-height: 80%;
-    height: 625px;
-    width:1349;
+    height: 100vh;
+    width:100%;
     
 } 
 #head-2__logo{
@@ -85,8 +85,9 @@ body {font-weight: 400;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 625px;
-    width:1349;
+    height: 100vh;
+    width:100%;
+
     
 }
 #head-3{
@@ -121,8 +122,8 @@ body {font-weight: 400;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 625px;
-    width:1349;
+    height: 100vh;
+    width:100%;
     
 }
 #head-4{
@@ -156,8 +157,8 @@ body {font-weight: 400;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 625px;
-    width:1349;
+    height:100vh;
+    width:100%;
     
 }
 #head-5{
